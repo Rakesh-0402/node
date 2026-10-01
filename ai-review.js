@@ -3,4 +3,4 @@ export function average(numbers) {
     / numbers.length;
 }
 
-console.log(average([10,20,30])); // Returns NaN
+console.log(average([10,20,30,40])); // Returns NaN
