@@ -3,5 +3,5 @@ export function average(numbers) {
     / numbers.length;
 }
 
-console.log(average([10,20,30,40]));
+console.log(average([10,20,30,40, 50]));
 console.log(average([])); // Returns NaN — empty-array case
